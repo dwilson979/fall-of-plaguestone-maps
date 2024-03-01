@@ -24,9 +24,9 @@
       "name": "Staffbearer"
     }
   ],
-  "url": "https://github.com/dwilson979/fall-of-plaguestone-maps/tree/main",
-  "manifest": "https://raw.githubusercontent.com/dwilson979/fall-of-plaguestone-maps/main/fall-of-plaguestone-maps/module.json",
-  "download": "https://github.com/dwilson979/fall-of-plaguestone-maps/tree/main/fall-of-plaguestone-maps/zipball/master/",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "packs": [
     {
       "name": "fall-of-plaguestone-scenes",
