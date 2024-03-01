@@ -1,0 +1,39 @@
+{
+  "id": "fall-of-plaguestone-maps",
+  "title": "Fall of Plaguestone Maps",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "levels",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multilevel-tokens",
+        "type": "module"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Staffbearer"
+    }
+  ],
+  "packs": [
+    {
+      "name": "fall-of-plaguestone-scenes",
+      "label": "Fall of Plaguestone Scenes",
+      "path": "packs/fall-of-plaguestone-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
